@@ -1,5 +1,5 @@
 fun main() {
-    val s = "Hello"
+    val s = "Hello Word"
     println(s.len()))
 }
 
