@@ -1,3 +1,7 @@
 fun main() {
-    println("Hello, World!")
+    val s = "Hello"
+    println(s.len()))
 }
+
+fun String.len() = this.length
+    
