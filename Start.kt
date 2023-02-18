@@ -4,4 +4,5 @@ fun main() {
 }
 
 fun String.len() = this.length
-    
+
+fun String.compareTo(other: String) = this.length - other.length
